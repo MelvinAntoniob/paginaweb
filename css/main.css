@@ -1,0 +1,19 @@
+img {
+
+    float: right;
+     border-radius: 50%;
+     -moz-border-radius: 1em;
+    height: 450px;
+   }
+
+  .contener{
+display: flex;
+justify-content: right;
+   position: absolute;
+   width: 70%;
+   left: 15%;
+   top: 20%;
+  }
+   
+ 
+

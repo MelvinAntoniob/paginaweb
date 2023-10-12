@@ -1,0 +1,21 @@
+h1{
+    padding: 29px;
+    margin: 0;
+    color:#fff;
+    box-sizing: border-box;
+}
+
+
+p.texto {
+     
+    position: relative;
+     color: #fff;
+  }
+
+   h2{
+    position: absolute;
+    color: #fff;
+   }
+
+
+   

@@ -1,0 +1,22 @@
+body{
+  background-color: black;
+}
+
+
+h1{
+  text-align: center;
+  color: #fff;
+  font-family: 'Courier New', Courier, monospace;
+}
+.contenedor{
+  display: flex;
+  flex-flow: wrap;
+  justify-content: center;
+}
+
+.contenedor img{
+  max-width: 400px;
+  padding: 12px 1rem;
+ }
+
+
